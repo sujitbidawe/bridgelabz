@@ -13,7 +13,7 @@ public class CouponNumber {
 
 		int number_of_elements = sc.nextInt();
 		int[] array = new int[number_of_elements];
-		int count = 0;
+		int count =  0;
 		int k = 0;
 		int flag = 0;
 
